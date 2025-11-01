@@ -9,9 +9,9 @@ const whatsappBtn = document.getElementById("whatsappBtn");
 if (whatsappBtn) {
   whatsappBtn.addEventListener("click", () => {
     // ✅ Updated WhatsApp direct chat
-    const phoneNumber = "919959156648"; // Replace with your number
+    const phoneNumber = "918639726218"; 
     const message = "Hello! I’d like to know more about Tech Homes PG.";
-    const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
+    const whatsappURL = `https://wa.me/${8639726218}?text=${encodeURIComponent(Welcome to Tech Homes Pg)}`;
     window.open(whatsappURL, "_blank");
   });
 }
@@ -66,3 +66,4 @@ if (form) {
     form.reset();
   });
 }
+
