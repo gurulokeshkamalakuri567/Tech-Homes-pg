@@ -113,7 +113,7 @@ body {
   }
 
   #menu-toggle:checked + .menu-icon + .nav-links {
-    height: 240px;
+    height: 260px;
     padding-top: 20px;
   }
 
@@ -1023,5 +1023,6 @@ footer p:hover {
     transform: translateY(0);
   }
 }
+
 
 
