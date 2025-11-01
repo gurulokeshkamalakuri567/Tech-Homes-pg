@@ -147,7 +147,7 @@ body {
   position: relative;
   overflow: hidden;
   background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-              url('https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1600&q=60') 
+              url('https://d2bxpw04qb5rhq.cloudfront.net/production/property_image/image/130856/4e588684ceca2ecee9859e07e42354f7f014f2e8ec9c099d78a431e61aea35160ab2aeca782c3f69/IMG20211111155350_01.jpg') 
               center/cover no-repeat;
   animation: zoomBackground 20s ease-in-out infinite alternate;
 }
@@ -1024,3 +1024,4 @@ footer p:hover {
     transform: translateY(0);
   }
 }
+
